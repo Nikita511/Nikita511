@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
   <p align="left">
   <a href="https://auth.geeksforgeeks.org/user/nikitasinghrk/">⭐GeeksForGeeks</a> <br>
-  <a href="https:"https://leetcode.com/Nikita048/">⭐LeetCode</a> <br>
+  <a href="https://leetcode.com/Nikita048/">⭐LeetCode</a> <br>
   <a href="https://www.hackerrank.com/nikitasinghrk">⭐HackerRank</a>
   </br></br></br>
    </p>
