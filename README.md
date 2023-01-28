@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 🎓 I am a **Data Enthusiast** and currently pursuing Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata  </br>
 - :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
-- [![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=Nikit511&theme=highcontrast&show_icons=true&count_private=true)
+- [![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=Nikita511&theme=highcontrast&show_icons=true&count_private=true)
 
