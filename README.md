@@ -25,10 +25,7 @@ Here are some ideas to get you started:
   <a href="https:"https://leetcode.com/Nikita048/">⭐LeetCode</a> <br>
   <a href="https://www.hackerrank.com/nikitasinghrk">⭐HackerRank</a>
   </br></br></br>
-  
-  </p>
-   <!-- ACTIVITY GRAPH TRACKER -->
-[![Nikita's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita511&theme=react-dark)](https://github.com/Nikita511/github-readme-activity-graph)
+   </p>
 
                                                     
                                                     
