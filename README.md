@@ -27,7 +27,11 @@ Here are some ideas to get you started:
   </br></br></br>
   
   </p>
-                                                                                                    
+   <!-- ACTIVITY GRAPH TRACKER -->
+[![Nikita's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita511&theme=react-dark)](https://github.com/Nikita511/github-readme-activity-graph)
+
+                                                    
+                                                    
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
