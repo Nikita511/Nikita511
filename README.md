@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🎓 I am in my final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata. 
 - 👩‍💻 I practice Data Structures and Algortihms in C++.
-- - :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
+- :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
 <p align="left"><h2>👩‍💻 My Activities across Coding Platforms </h2></p>
   <img align="right" width="400" height="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
   
