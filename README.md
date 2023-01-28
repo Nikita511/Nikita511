@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 🎓 I am a **Data Enthusiast** and currently pursuing Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata  </br>
 - :bell: My passions are **Applied Mathematics**, **Data Science**, and **Machine Learning** </br>
- 
-- ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=Nikita511&theme=highcontrast&show_icons=true&count_private=true)
-
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita511)
   <br>
 <p align="left"><h2>👩‍💻 My Activities across Coding Platforms </h2></p>
   <img align="right" width="400" height="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -32,3 +27,9 @@ Here are some ideas to get you started:
   </br></br></br>
   
   </p>
+                                                    
+### Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
